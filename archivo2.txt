@@ -1,1 +1,2 @@
 Archivo 2
+Este contenido fue agregado estando en rama2.
